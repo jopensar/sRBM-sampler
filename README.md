@@ -10,4 +10,6 @@ sRBM-sampler is an R implementation of the Gibbs sampler introduced in Pensar et
 Please cite the above paper when using this method (modified or as is).
 
 ### Usage ###
-See the included script read_me.R for step-by-step instructions on how to use the code. The original MATLAB version of the sampler can be found [here](https://bitbucket.org/jopensar/srbm-sampler/).
+See the included script read_me.R for step-by-step instructions on how to use the code. 
+
+The original MATLAB version of the sampler can be found [here](https://bitbucket.org/jopensar/srbm-sampler/).
