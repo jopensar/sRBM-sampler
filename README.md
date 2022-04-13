@@ -12,4 +12,4 @@ Please cite the above paper when using this method (modified or as is).
 ### Usage ###
 See the included script read_me.R for step-by-step instructions on how to use the code. 
 
-The original MATLAB version of the sampler can be found [here](https://bitbucket.org/jopensar/srbm-sampler/).
+The original MATLAB version of the sampler can be found at [https://bitbucket.org/jopensar/srbm-sampler/](https://bitbucket.org/jopensar/srbm-sampler/).
